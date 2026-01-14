@@ -69,7 +69,7 @@ graph TD
 To update this diagram with the correct Starrupture construction tree:
 
 1. Edit the README.md file
-2. Update the mermaid diagram within the \`\`\`mermaid code block
+2. Update the mermaid diagram within the ```mermaid code block
 3. Add/remove nodes to represent actual in-game items and resources
 4. Update the arrows (-->) to show the correct crafting dependencies
 5. Adjust the style classes if needed to categorize different types of items
