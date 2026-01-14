@@ -1,4 +1,4 @@
-# StarRupture Resource Construction Tree
+# StarRupture Factory Tree
 
 ```mermaid
 %%{init: {
